@@ -1,6 +1,5 @@
-# 👋 Yoo buddy, Welcome!
-Always building, always learning — from low-level C++ to creative Python projects  
-
+# 👋 Yoo buddy, welcome!
+Im always building and always learning :)
 ---
 
 ## 🌐 My GitHub Contributions — 3D View
@@ -21,7 +20,7 @@ Always building, always learning — from low-level C++ to creative Python proje
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarcoFilho1.MarcoFilho1)
 
 ---
-Always building, always learning
+
 
 <!--
 **MarcoFilho1/MarcoFilho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
