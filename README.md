@@ -6,7 +6,6 @@
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
----
 
 ## 📊 GitHub Stats
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoFilho1&show_icons=true&theme=tokyonight)
@@ -14,12 +13,12 @@
 ## 🌍 Feel free to connect and reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-filho-3159542b1)
-
+---
 ## 👀 Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarcoFilho1.MarcoFilho1)
 
----
+
 
 
 <!--
