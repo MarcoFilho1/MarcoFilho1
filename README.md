@@ -2,6 +2,14 @@
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
+## 📊 GitHub Stats
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoFilho1&show_icons=true&theme=tokyonight)
+
+##🌍 Feel free to connect and reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-filho-3159542b1)
+
+
 <!--
 **MarcoFilho1/MarcoFilho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
