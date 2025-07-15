@@ -1,8 +1,5 @@
 # 👋 Yoo buddy, welcome!
 ### Im always building and always learning :)
----
-
-## 🌐 My GitHub Contributions — 3D View
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
