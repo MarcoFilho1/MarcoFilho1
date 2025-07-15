@@ -10,7 +10,7 @@
 ## 🌍 Feel free to connect and reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-filho-3159542b1)
----
+
 ## 👀 Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarcoFilho1.MarcoFilho1)
