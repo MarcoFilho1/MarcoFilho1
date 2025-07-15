@@ -1,5 +1,5 @@
 # 👋 Yoo buddy, welcome!
-### Im always building and always learning :)
+### Im always building and learning something new :)
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
