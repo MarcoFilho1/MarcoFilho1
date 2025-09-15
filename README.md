@@ -1,13 +1,14 @@
 # 👋 Yoo buddy, welcome!
 ### Im always building and learning something new :)
-## Fun fact
- Half of my time is coding. The other half is figuring out why it doesn’t compile. :')
+
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 
 ## 📊 GitHub Stats
 ![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoFilho1&show_icons=true&theme=tokyonight)
+## Fun fact
+ Half of my time is coding. The other half is figuring out why it doesn’t compile. :')
 
 ## 🌍 Feel free to connect and reach out!
 
