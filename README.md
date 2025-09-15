@@ -10,11 +10,6 @@
 ## Fun fact
  Half of my time is coding. The other half is figuring out why it doesn’t compile. :')
 
-## 🌍 Feel free to connect and reach out!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-filho-3159542b1)
-
-
 
 
 
