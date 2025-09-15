@@ -1,5 +1,7 @@
 # 👋 Yoo buddy, welcome!
 ### Im always building and learning something new :)
+## Fun fact
+ Half of my time is coding. The other half is figuring out why it doesn’t compile. :')
 
 ![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
 
@@ -11,8 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/marco-filho-3159542b1)
 
-## Fun fact
- Half of my time is coding. The other half is figuring out why it doesn’t compile. :')
+
 
 
 
